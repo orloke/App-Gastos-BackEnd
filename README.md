@@ -11,6 +11,7 @@ App para o controle de gastos diarios. Nele é possível:
 * Deletar registros
 * Balanço por mês
 * Funciona bem em PCs e dispositivos moveis
+
 ![Adicionando registro](https://user-images.githubusercontent.com/96503495/167019630-39b34abd-de18-41be-b3e5-6a882e77f8c7.gif)
 
 ## Desenvolvimento
