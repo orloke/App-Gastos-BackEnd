@@ -1,0 +1,11 @@
+const express = require('express')
+const db = require('./src/database')
+const routes = require('./src/routes')
+const cors = require('cors')
+
+const app = express()
+app.use(cors())
+db.hasConnection()
+app.use(express.json())
+app.use(routes)
+app.listen(5000, ()=>console.log('conectado no 12!'))
