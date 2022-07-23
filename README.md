@@ -42,3 +42,29 @@ $ npm start
 ```
 
 A parte do banco de dados está hospedado no Heroku. Por questões de segurançã ele não é disponibilizado aqui. Para o devido funcionamento da aplicação é sugerido a criação de um banco de dados no MySql.
+
+#### Pagina Inical
+
+A aplicação possui apenas uma página onde esta todo o cerne do projeto. Para fazer o cadastro de um item é necessário selecionar a categoria, data, valor e colocar um texto descritivo. Em baixo é exibido os itens cadastrados até então. Caso o usuário cometa algum erro no cadastro é possível deletar e fazer novamente. Outra funcionalidade e navegar pelos meses usando as setas que ficam na parte de informações.
+
+## :open_book: Código 
+
+Na construção da pagina tentei novamente, como venho fazendo em outros projetos, separar as responsabilidades, entretanto não fui muito efetivo e nem me dediquei muito a essa parte nesse projeto. Isso pode ser notado no arquivo principal onde além de construir a parte principal do app, também usei para consumir a api. 
+
+Apesar desse descuido o codigo cumpre seu propósito, além de dar origem a uma aplicação responsiva!
+
+## :grinning: Conclusão
+
+O objetivo principal do projeto foi alcançado: criar uma pagina web onde é possível fazer o controle diário de despesas e ganhos. Alguns pontos que podem ser melhorados são: 
+
+* Botão de editar registros
+* Opção de adicionar e excluir categorias
+* Melhorias no design
+* Clean code
+* Separar melhor as responsibilidades
+
+## :phone: Contatos
+
+Email: [juniordering@hotmail.com](juniordering@hotmail.com)
+
+WhatsApp [(65) 98175-1036](https://wa.me/5565981751036)
